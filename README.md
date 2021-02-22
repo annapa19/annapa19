@@ -16,7 +16,7 @@ Exploratory Data Analysis Mini Project: [  Hospital Readmissions Data Analysis a
 
 Linear Regression Mini Project: [  Boston Housing Price Prediction](https://github.com/annapa19/ML-projects/blob/master/Mini_Project_Linear_Regression.ipynb)
 
-Logistic Regression Mini Project: [  Human Gender Prediction on Heights & Weights]((https://github.com/annapa19/ML-projects/blob/master/Mini_Project_Logistic_Regression.ipynb)
+Logistic Regression Mini Project: [  Human Gender Prediction on Heights & Weights](https://github.com/annapa19/ML-projects/blob/master/Mini_Project_Logistic_Regression.ipynb)
 
 Clustering Mini Project: [  Customer Segmentation](https://github.com/annapa19/ML-projects/blob/master/Mini_Project_Clustering.ipynb)
 
